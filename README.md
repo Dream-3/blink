@@ -45,7 +45,7 @@ This toolbox includes image conversion and image stitching, pure front-end imple
 <br/>
 
 <h2>
-    <img width="20" src="./doc/images/2.png" />
+    <img width="20" src="./cdn/v3.0/favicon.png" />
     Video subtitle stitching tool
 </h2>
 
