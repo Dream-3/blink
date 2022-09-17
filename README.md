@@ -15,9 +15,6 @@ This toolbox includes image conversion and image stitching, pure front-end imple
  
 <!-- <img width="300" src="https://api.star-history.com/svg?repos=renzhezhilu/webp2jpg-online&type=Date" /> -->
 
-##Online address
-[Image conversion](https://imagestool.com/webp2jpg-online/)
-| [Image splicing](https://imagestool.com/webp2jpg-online/splicing.html)
 
 <h2>
     <img width="20" src="./1.png" />
