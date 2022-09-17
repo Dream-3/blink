@@ -12,10 +12,7 @@ English | [Simplified Chinese](./README_CN.md) | [Japanese](./README_JP.md)
 </center>
 
 This toolbox includes image conversion and image stitching, pure front-end implementation, fast speed, privacy protection, and offline use, 20 languages ​​supported.
-    
-    Q: Why is it named webp2jpg?
-    A: Because it was originally to convert webp to jpg, I have been using it all the time.
-
+ 
 <!-- <img width="300" src="https://api.star-history.com/svg?repos=renzhezhilu/webp2jpg-online&type=Date" /> -->
 
 ##Online address
@@ -23,7 +20,7 @@ This toolbox includes image conversion and image stitching, pure front-end imple
 | [Image splicing](https://imagestool.com/webp2jpg-online/splicing.html)
 
 <h2>
-    <img width="20" src="./doc/images/1.png" />
+    <img width="20" src="./1.png" />
     Multifunctional Image Converter
 </h2>
 <img width="600" src="./cdn/webp2jpg_v3_ui.jpg" />
