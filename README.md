@@ -49,7 +49,7 @@ This toolbox includes image conversion and image stitching, pure front-end imple
     Video subtitle stitching tool
 </h2>
 
-<img width="600" src="./cdn/splicing/ui.jpg" />
+<img width="600" src="./cdn/v3.0/ui.jpg" />
 
 Splicing the subtitles of the video into a picture has everyone seen it~ This tool can easily create all forms of such pictures.
 
